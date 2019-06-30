@@ -9,4 +9,9 @@ public class FirstGit {
         System.out.println("git............");
         System.out.println("git............");
     }
+    public void test(){
+        for (int i = 0; i < 10; i++) {
+            System.out.println(i);
+        }
+    }
 }
